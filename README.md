@@ -1,4 +1,4 @@
-# SocialInd
+# A Diffusion Model over Directed Acyclic Graphs for Event Schema Generation
 Code and datasets for A Diffusion Model over Directed Acyclic Graphs for Event Schema Generation
 ## Data File Structure
 The structure of data files is as follows: 
