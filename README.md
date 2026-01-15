@@ -11,14 +11,16 @@ pythonProject
  |-- train.py  # start with this
  |-- convert.py  # 
  |-- dataset.py  # 
- |-- diffusion_graph.py  #  main model
  |-- metric.py  #  eval method
  |-- read_exist_data.py  #  
  |-- utils.py  #  
- data
- |-- suicide_ied
- |-- wiki_ied_bombings
- |-- wiki_mass_car_bombings
+ |-- data
+     |-- suicide_ied
+     |-- wiki_ied_bombings
+     |-- wiki_mass_car_bombings
+ |-- models
+     |-- diffusion_graph.py  #  main model
+     |-- modeling.py
 ```
 
 ```python
